@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
  * Main - Entry
- * Return 0
+ * Description - 'printing withprintf'
+ * Return 0 (success)
  */
 int main(void)
 {
