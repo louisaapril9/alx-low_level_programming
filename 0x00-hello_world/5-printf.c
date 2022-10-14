@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * Main - Entry
+ * main - Entry
  * Description - 'printing withprintf'
- * Return 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
